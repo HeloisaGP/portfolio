@@ -1,0 +1,424 @@
+body{
+    font-family: Inter, sans-serif;
+    background-color: #FFFFFF;
+    color: #000000;
+    margin: 0;
+}
+
+section{
+    margin: 0% 15% 0% 15%;
+}
+
+h1{
+    color:#9B5CA5;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+h2{
+    color:#FFFFFF;
+    transform: translate(0, 80%);
+    margin-bottom: 50px;
+}
+
+.tituloroxo{
+    color: #9B5CA5;
+    text-align: center;
+}
+
+h3{
+    color: #9B5CA5;
+    text-align: right;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 0;
+}
+
+/*MENU*/
+.menu{
+    background-color: #9B5CA5;
+    height: 50px;
+    max-width: 80%;
+    margin-top: 0;
+    margin: 0 auto;
+    border-radius: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+    text-align: center;
+}
+
+.menu a{
+    color:#FFFFFF;
+    font-family: Inter, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 60px;
+}
+
+.menu li {
+    display: inline-block;
+    line-height: 3;
+    margin: 0 auto;  
+}
+
+.menu button a{
+    color: #9B5CA5;
+    font-family: Inter, sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: medium; 
+}
+
+.menu button{
+    background-color: #FFFFFF;
+    height: 30px;
+    border-style: none;
+    border-radius: 8px;
+    max-width: 80%;
+    margin-right: 50px;
+}
+/*FIM DO MENU*/
+
+/*INÍCIO*/
+#imglogo{
+    width: 200px;
+    position: relative;
+    top: 40px;
+    left: 78%; 
+}
+
+#imgperfil{
+    width: 940px;
+    position: relative;
+    top: 0;
+}
+/*FIM DO INÍCIO*/
+
+/*SOBRE*/
+#sobre{
+    background-color: #9B5CA5;
+    max-width: 80%;
+    margin:0 auto;
+    text-align: center;
+    color:#FFFFFF;
+    border-radius: 10px;
+}
+
+#sobre ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: -60px;
+}
+
+#sobrelist ul li{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 600;
+    max-width: 200px;
+    line-height: 1.5;
+    margin: 20px;
+    padding: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+#sobre1{
+    width: 150px;
+}
+
+#sobre2{
+    width: 150px;
+}
+
+#sobre3{
+    width: 150px;
+}
+
+#sobre4{
+    width: 150px;
+}
+/*FIM DO SOBRE*/
+
+/*PROJETOS*/
+#linhaamarela1{
+    position: relative;
+    left: 5%;
+}
+
+#logotipos ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 0;
+    padding: 30px;
+}
+
+#logotipos ul li{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 600;
+    max-width: 200px;
+    line-height: 1.5;
+    margin: 50px;
+    margin-bottom: 0;
+    padding: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+#labtech{
+    width: 150px;
+}
+
+#viviane{
+    width: 150px;
+}
+
+#gabriella{
+    width: 150px;
+}
+
+#lassint{
+    width: 150px;
+}
+
+#deborah{
+    width: 150px;
+}
+
+#materiais ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 0;
+    padding: 30px;
+}
+
+#materiais ul li{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 600;
+    max-width: 200px;
+    line-height: 1.5;
+    margin: 50px;
+    margin-bottom: 0;
+    padding: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+#material1{
+    width: 200px;
+}
+
+#material2{
+    width: 200px;
+}
+
+#material3{
+    width: 200px;
+}
+
+#cartao1{
+    width: 200px;
+}
+
+#cartao2{
+    width: 200px;
+}
+
+#cartao3{
+    width: 200px;
+}
+
+#publicacoes ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-left: 0;
+    padding: 30px;
+}
+
+#publicacoes ul li{
+    display: inline-block;
+    text-decoration: none;
+    text-align: center;
+    font-weight: 600;
+    max-width: 200px;
+    line-height: 1.5;
+    margin: 50px;
+    margin-bottom: 0;
+    padding: 0 auto;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+#redes1{
+    width: 200px;
+}
+
+#redes2{
+    width: 200px;
+}
+
+#redes3{
+    width: 200px;
+}
+
+#redes4{
+    width: 200px;
+}
+
+#redes5{
+    width: 200px;
+}
+
+#redes6{
+    width: 200px;
+}
+
+#redes7{
+    width: 200px;
+}
+
+#redes8{
+    width: 200px;
+}
+
+#redes9{
+    width: 200px;
+}
+
+#redes10{
+    width: 200px;
+}
+
+#didaticos ul{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 30px;
+    padding: 0;
+}
+
+#didaticos ul li{
+    display: inline-block;
+    text-decoration: none;
+    text-align: left;
+    max-width: 300px;
+    margin: 20px 50px 0px 50px;
+    padding: 0;
+    flex-wrap: wrap;
+    justify-content: center;
+    }
+
+#didatico1{
+    width: 400px;
+}
+
+#didatico2{
+    width: 400px;
+}
+
+#didatico3{
+    width: 400px;
+}
+
+#didatico4{
+    width: 400px;
+}
+
+#didatico5{
+    width: 400px;
+}
+
+#didatico6{
+    width: 400px;
+}
+
+#didatico7{
+    width: 400px;
+}
+
+#didatico8{
+    width: 400px;
+}
+
+#didatico9{
+    width: 400px;
+}
+
+#didatico10{
+    width: 400px;
+}
+
+/*CERTIFICADOS*/
+#certificados{
+    color: #9B5CA5;
+    text-align: center;
+}
+
+#certificados {
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 10px;
+}
+/*FIM DE CERTIFICADOS*/
+
+/*CONTATO*/
+#contato{
+    margin-bottom: 5%;
+
+}
+
+#imglogocontato{
+    width: 200px;
+    position: relative;
+    top: 30px;
+    left: 0%;
+}
+
+#divisoria{
+    width: 3px;
+    position: relative;
+    top: 35px;
+    left: 5%;
+
+}
+
+#contato ul{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 500px;
+    margin-top: -80px;
+}
+
+#contato ul li{
+    display: inline-flex;
+    text-decoration: none;
+    font-weight: 600;
+    max-width: 100px;
+    flex-wrap: wrap;
+    justify-content: 50px;
+    margin: 0 0px 0 0;
+    }
+
+#contato a{
+    text-decoration: none;
+    margin-top: 7px;
+    color: #9B5CA5;
+}
+
+/*FIM DE CONTATO*/
+
+
+
+
+
+
+
+
+    
