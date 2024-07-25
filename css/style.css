@@ -356,11 +356,6 @@ h3{
 }
 
 /*CERTIFICADOS*/
-#certificadostexto{
-    color: #9B5CA5;
-    text-align: center;
-}
-
 #certificados {
     margin: 0 auto;
     max-width: 100%;
